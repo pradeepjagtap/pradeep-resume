@@ -97,6 +97,7 @@ extensive collaboration with engineering, product, and support teams.
 
 ## Awards & Recognition
 
+- Inspirational Leadership exCEEd Award for CY25 Q2
 - General H. Hugh Shelton Chairman’s Award – 2024
 - RHEL Champion – CY21 Q2
 - RHEL 9 Readiness Challenge Winner
