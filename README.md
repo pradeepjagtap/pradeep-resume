@@ -1,6 +1,6 @@
 # Pradeep Jagtap
 
-Principal Technical Support Engineer  
+Principal Software Engineer  
 Red Hat | India  
 Email: pradeepj825@gmail.com  
 LinkedIn: https://www.linkedin.com/in/pradeep-jagtap-a11-wai  
@@ -9,11 +9,12 @@ LinkedIn: https://www.linkedin.com/in/pradeep-jagtap-a11-wai
 
 ## Profile Summary
 
-Principal Technical Support Engineer with 8+ years of experience supporting
-Red Hat Enterprise Linux customers globally in a 24x7 environment.
-Strong expertise in deep Linux troubleshooting, boot issues, storage,
-Anaconda, and system internals. Proven mentor and domain lead with
-extensive collaboration with engineering, product, and support teams.
+Principal Software Engineer with 8+ years of experience in Red Hat Enterprise Linux, 
+transitioning from global 24x7 production support to engineering-driven development and problem solving. 
+Strong expertise in Linux internals, boot process, storage stack, Anaconda, and system-level troubleshooting. 
+Focused on building reliable, scalable solutions, improving upgrade workflows,
+and contributing to automation and tooling. Proven track record of collaborating with 
+engineering, product, and support teams, with a strong emphasis on mentorship and technical leadership.
 
 ---
 
@@ -34,8 +35,14 @@ extensive collaboration with engineering, product, and support teams.
 
 ## Work Experience
 
+### Principal Software Engineer  
+**Red Hat | Apr 2026 – Present**
+
+
+---
+
 ### Principal Technical Support Engineer  
-**Red Hat | Dec 2018 – Present**
+**Red Hat | Dec 2018 – Apr 2026**
 
 - Provide world-class technical support to Red Hat enterprise customers globally
 - Lead deep troubleshooting for complex Linux, boot, and installer issues
@@ -92,6 +99,7 @@ extensive collaboration with engineering, product, and support teams.
 - Red Hat Certified Specialist – Server Security & Hardening
 - Red Hat AI Foundations Technologist Certificate
 - Red Hat AI Foundations Executive Certificate
+- Red Hat Certified Specialist in Container
 
 ---
 
